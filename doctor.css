@@ -154,9 +154,6 @@
     .dropdown:hover .dropdown-content {
         display: block;
     }
-    .headingbuttondiv{
-        margin-top: 30px;
-    }
     .headingbutton>a{
         color: #386CF0;
     }
@@ -1712,9 +1709,6 @@
         justify-items: end;  
         align-items: end;
         padding-top: 10px;
-    }
-    .headingbuttondiv{
-        margin-top: 40px;
     }
      /* ...............................................2.......................................... */
      .imgheadingi{
